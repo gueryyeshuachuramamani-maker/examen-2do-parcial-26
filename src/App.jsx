@@ -1,4 +1,4 @@
-import Hero from "./componentes/organismos/Hero";
+import Hero from "./componentes/organismo/Hero";
 import "./styles/cryptx.css";
 
 export default function App() {

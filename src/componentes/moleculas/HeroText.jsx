@@ -1,5 +1,5 @@
-import Title from "../atomos/Title";
-import Subtitle from "../atomos/Subtitle";
+import Title from "../atoms/Title";
+import Subtitle from "../atoms/Subtitle";
 
 export default function HeroText() {
   return (

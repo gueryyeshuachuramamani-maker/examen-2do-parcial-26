@@ -1,8 +1,12 @@
-@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap");
+:root {
+  --bg: #070707;
+  --accent: #6c54ff;
+}
 
-:root { --bg: #070707; --accent: #6552fe; --text: #ffffff; }
-* { box-sizing: border-box; }
-body { margin: 0; background: #000; font-family: "Poppins", system-ui, sans-serif; color: var(--text); }
+.hero {
+  background: var(--bg);
+  padding: 0 23px 28px;
+}
 
 /* template */
 .app { display: flex; justify-content: center; background: #000; }

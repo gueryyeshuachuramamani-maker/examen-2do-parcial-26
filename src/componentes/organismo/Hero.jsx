@@ -1,6 +1,6 @@
-import Logo from "../atomos/Logo";
-import HeroImage from "../atomos/HeroImage";
-import Button from "../atomos/Button";
+import Logo from "../atoms/Logo";
+import HeroImage from "../atoms/HeroImage";
+import Button from "../atoms/Button";
 import HeroText from "../moleculas/HeroText";
 
 export default function Hero() {
